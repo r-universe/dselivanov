@@ -1,0 +1,10 @@
+[
+  {
+    "package": "sparsepp",
+    "oncran": true
+  },
+  {
+    "package": "text2vec",
+    "oncran": true
+  }
+]

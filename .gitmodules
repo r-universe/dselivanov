@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sparsepp"]
+	path = sparsepp
+	url = https://github.com/dselivanov/r-sparsepp
+	shallow = true
+	registered = true
+[submodule "text2vec"]
+	path = text2vec
+	url = https://github.com/dselivanov/text2vec
+	shallow = true
+	registered = true
