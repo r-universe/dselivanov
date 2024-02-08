@@ -5,6 +5,9 @@
 [submodule "mlapi"]
 	path = mlapi
 	url = https://github.com/cran/mlapi
+[submodule "rsparse"]
+	path = rsparse
+	url = https://github.com/dselivanov/rsparse
 [submodule "sparsepp"]
 	path = sparsepp
 	url = https://github.com/dselivanov/r-sparsepp
